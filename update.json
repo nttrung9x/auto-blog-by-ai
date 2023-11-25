@@ -1,0 +1,37 @@
+{
+	"name": "VNGPT - Auto Content",
+	"version": "3.2",
+	"download_url": "https://vngpt.pro/wp-content/uploads/vngpt-v3.2.zip",
+
+	"homepage": "https://vngpt.pro/",
+	"requires": "5.9",
+	"tested": "6.2",
+	"last_updated": "26/06/2023",
+	"upgrade_notice": "Here's why you should upgrade...",
+
+	"author": "thienvt",
+	"author_homepage": "https://thienvt.com/",
+
+	"sections": {
+		"description": "",
+		"installation": "",
+		"changelog": "<h4>VNGPT - Auto Content v3.2 – Ngày 26/06/2023</h4>",
+		"Contact": "<ul><li> Call/zalo: 033 439 0000</li><li> Facebook: <a target=\"_blank\" href=\"https://www.facebook.com/thienvt36/\">https://www.facebook.com/thienvt36/</a></li><li> Group: <a target=\"_blank\" href=\"https://www.facebook.com/groups/codengao\">https://www.facebook.com/groups/codengao</a></li><li><a target=\"_blank\" href=\"https://vngpt.pro/\">Đăng ký sử dụng plugin VNGPT - Auto Content</a></li></ul>"
+	},
+
+	"icons" : {
+		"1x" : "",
+		"2x" : ""
+    },
+
+	"banners": {
+		"low": "",
+		"high": ""
+	},
+
+	"rating": 90,
+	"num_ratings": 529,
+
+	"downloaded": 89,
+	"active_installs": 2212
+}
