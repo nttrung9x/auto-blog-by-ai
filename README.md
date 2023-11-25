@@ -7,3 +7,4 @@
 + Tạo 3 ảnh theo từ khóa.
 + Set thumbnail cho bài viết.
 - Tác giả: https://www.facebook.com/hkvn9x
+- Blog: https://mmo69.com
